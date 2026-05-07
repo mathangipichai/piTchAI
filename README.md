@@ -1,6 +1,6 @@
 # Liquid Glass Banking App
 
-A pure SwiftUI sample application demonstrating the **Liquid Glass** UI design pattern in a Banking/Finance context. This app showcases interactive glassmorphism effects, smooth animations, Material style variations, and real-world use cases.
+A SwiftUI sample application demonstrating the **Liquid Glass** UI design pattern in a Banking/Finance context. This app showcases interactive glassmorphism effects, smooth animations, Material style variations, and real-world use cases.
 
 ## Overview
 
